@@ -3,10 +3,10 @@ body {
         background-color:skyblue;
     }
 #data {
-        background-color: rgb(0, 255, 42);
+        background-color: rgba(210, 231, 116, 0.979);
         color: white;
     }
 #update {
-        background-color: rgb(0, 255, 42);
+        background-color: rgb(44, 243, 127);
         color: white;
     }
